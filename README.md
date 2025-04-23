@@ -84,6 +84,6 @@ public.databases:https://dbaasp.org/home (DBAASP), http://dramp.cpu-bioinfor.org
 ## 7.R Script
 
 ```
-The R code utilized in this study is saved in the directory named R/
+The R code used in this study is saved in the directory named scripts/R/
 ```
 
