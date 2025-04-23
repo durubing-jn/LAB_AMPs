@@ -1,4 +1,4 @@
-# Antimicrobial peptides in Lactobacillaceae
+# Antimicrobial peptides in the Lactobacillaceae
 
 ## 1. Genome download
 
